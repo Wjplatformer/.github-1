@@ -16,7 +16,7 @@ Fork the repository and extract the `pulse.css` file for personal use.
 
 ### CDN 
 
-Pulse UI is available through a [JSDelivr CDN](https://jsdelivr.com). 
+Pulse UI is available through a [JSDelivr CDN](https://jsdelivr.com) that connects to the github pages deployment. 
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pulseui/pulseui.github.io/pulse.css"/>

@@ -24,6 +24,14 @@ Pulse UI is available through a [JSDelivr CDN](https://jsdelivr.com) that connec
 
 It is better to place the CDN link **after** your website's stylesheets. 
 
+## Alpine 
+
+Pulse works well with Alpine if you are making static websites. The Pulse UI website uses material icons and Alpine to elevate UX. 
+
 ## Appearance 
 
-Pulse UI components are inspired by [Material](https://material.io) but are much more lightweight and friendly to use. Pulse uses fewer nested elements to improve developer experience and deliver simple components. 
+Pulse UI components are inspired by [Material](https://material.io) but are much more lightweight and friendly to use. Pulse uses fewer nested elements to improve developer experience and deliver simple components. Ripple effects work smoothly and can be integrated seamlessly through a few lines of JavaScript. Pulse is also more customisable. The CSS can be replaced easily. 
+
+## Ripple Effect 
+
+Pulse UI uses [Ripplet](https://github.com/luncheon/ripplet.js) to achieve the awesome ripple effect. 

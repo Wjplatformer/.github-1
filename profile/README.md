@@ -12,7 +12,7 @@ Pulse UI will support:
 
 ### GitHub 
 
-Fork the repository and extract the `pulse.css` file for personal use. 
+Fork the [Repository](https://github.com/PulseUI/pulseui.github.io/) and extract the `pulse.css` file for personal use. 
 
 ### CDN 
 
